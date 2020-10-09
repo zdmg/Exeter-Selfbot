@@ -1,0 +1,11 @@
+{
+    "token": "discord-token",
+    "password": "discord-password",
+    "prefix": "/",
+    
+    "nitro_sniper": true, 
+    "giveaway_sniper": true,
+
+    "stream_url": "https://www.youtube.com/watch?v=apPsjYs6HmE",
+    "tts_language": "en"
+}
